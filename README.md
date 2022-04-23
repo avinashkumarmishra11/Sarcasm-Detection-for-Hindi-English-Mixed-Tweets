@@ -12,7 +12,7 @@ We evaluate our models on macro F1-score, precision, accuracy, and recall on the
 intend to show that hyper-parameter tuning and data pre-processing steps help a lot in improving
 the scores. In our experiments, we are able to achieve 0.886 F1-Macro on OffenEval Greek
 language subtask post-evaluation, whereas the highest is 0.852 during the Evaluation Period.
-We stood third in Spanglish competition with our best F1-score of 0.756.
+
 ### File Structure
 This repository contains two folders Sentimix and OffensEval. Sentimix folder contains Jupyter and corresponding Python files of Spanglish and Hinglish. OffensEval Folder contains code files of OffensEval English Task 1,2,3 and Turkish, Arabic, Danish and Greek languages.
 
